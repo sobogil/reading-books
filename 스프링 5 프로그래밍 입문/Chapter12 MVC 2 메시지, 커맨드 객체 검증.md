@@ -1,7 +1,7 @@
 ## 📝 목차
 - [Chapter12](#Chapter12)
 
-##Chapter12 MVC 2: 메시지, 커맨드 객체 검증
+## Chapter12 MVC 2: 메시지, 커맨드 객체 검증
 
 2. <spring:message> 태그 사용하기
 
