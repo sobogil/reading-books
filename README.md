@@ -57,7 +57,8 @@
 ## 📚 책 목록
 
 - [스프링5 프로그래밍 입문](books/the-great-gatsby.md) - 최범균
-
+- [sql 전문가](books/the-great-gatsby.md) - 한국데이터산업진흥원
+- [처음부터 제대로 배우는 스프링 부트](books/the-great-gatsby.md) - 마크 헤클러
 *...그리고 더 많은 책들!*
 
 
