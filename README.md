@@ -1,3 +1,7 @@
+# 중요
+
+**2024년 10월 2일부터 [velog/sobogil](https://velog.io/@sobogil1114/posts) 에 글을 올리기로 바꾸었다.**
+
 
 # 📚 나의 책 리포지토리
 
